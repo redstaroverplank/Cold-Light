@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.plank.cold_light.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "cold_light.refmap.json",
+  "mixins": [
+    "AbstractArrowPhysicsMixin",
+    "EnchantmentMixin",
+    "JavelinItemMixin",
+    "ThrownJavelinMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "com/plank/cold_light/mixin/EnchantmentMixin": {
+      "canEnchant": "Lnet/minecraft/world/item/enchantment/Enchantment;m_6081_(Lnet/minecraft/world/item/ItemStack;)Z"
+    },
+    "com/plank/cold_light/mixin/AbstractArrowPhysicsMixin": {
+      "getWaterInertia": "Lnet/minecraft/world/entity/projectile/AbstractArrow;m_6882_()F"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/plank/cold_light/mixin/EnchantmentMixin": {
+        "canEnchant": "Lnet/minecraft/world/item/enchantment/Enchantment;m_6081_(Lnet/minecraft/world/item/ItemStack;)Z"
+      },
+      "com/plank/cold_light/mixin/AbstractArrowPhysicsMixin": {
+        "getWaterInertia": "Lnet/minecraft/world/entity/projectile/AbstractArrow;m_6882_()F"
+      }
+    }
+  }
+}

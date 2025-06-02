@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: cold_light
+Specification-Vendor: Plank
+Specification-Version: 1
+Implementation-Title: cold_light
+Implementation-Version: 1.0
+Implementation-Vendor: Plank
+Implementation-Timestamp: 2025-06-02T15:54:41+0800
+
