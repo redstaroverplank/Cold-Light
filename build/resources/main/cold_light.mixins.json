@@ -5,7 +5,6 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "cold_light.refmap.json",
   "mixins": [
-    "AbstractArrowPhysicsMixin",
     "EnchantmentMixin",
     "JavelinItemMixin",
     "ThrownJavelinMixin"
