@@ -51,10 +51,10 @@ public abstract class JavelinItemMixin {
                          else soundEvent = SoundEvents.TRIDENT_RIPTIDE_1;
                         level.playSound(null, player, soundEvent, SoundSource.PLAYERS, 1.0F, 1.0F);
                         // 消耗耐久
-                        /*if (!player.getAbilities().instabuild) {
-                            stack.hurtAndBreak(riptideLevel, player,
+                        if (!player.getAbilities().instabuild) {
+                            stack.hurtAndBreak(1, player,
                                     p -> p.broadcastBreakEvent(entity.getUsedItemHand()));
-                        }*/
+                        }
                         player.awardStat(Stats.ITEM_USED.get(stack.getItem()));
                     }
                     ci.cancel(); // 取消原版投掷逻辑
