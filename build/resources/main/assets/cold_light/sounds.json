@@ -1,0 +1,74 @@
+{
+  "item.javelin.return": {
+    "sounds": [
+      {
+        "name": "minecraft:item/trident/return1",
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:item/trident/return2",
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:item/trident/return2",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:item/trident/return2",
+        "pitch": 1.2,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:item/trident/return2",
+        "pitch": 1.2,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:item/trident/return3",
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:item/trident/return3",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:item/trident/return3",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:item/trident/return3",
+        "pitch": 1.2,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.item.clod_light.javelin.return"
+  },
+  "item.javelin.riptide_1": {
+    "sounds": [
+      "minecraft:item/trident/riptide1"
+    ],
+    "subtitle": "subtitles.item.clod_light.javelin.riptide"
+  },
+  "item.javelin.riptide_2": {
+    "sounds": [
+      "minecraft:item/trident/riptide2"
+    ],
+    "subtitle": "subtitles.item.clod_light.javelin.riptide"
+  },
+  "item.javelin.riptide_3": {
+    "sounds": [
+      "minecraft:item/trident/riptide3"
+    ],
+    "subtitle": "subtitles.item.clod_light.javelin.riptide"
+  },
+  "item.javelin.thunder": {
+    "sounds": [
+      "minecraft:item/trident/thunder1",
+      "minecraft:item/trident/thunder2"
+    ],
+    "subtitle": "subtitles.item.clod_light.javelin.thunder"
+  }
+}
